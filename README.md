@@ -1,5 +1,5 @@
-# aaf-api-py
-appsolve application blocks fast-api starter kit  
+# aad-api-py-oidc
+appsolve application blocks fast-api starter kit with open-id-connect authentication  
 
 `aab-api-py-oicc` is a Python, Fast-API based api starter kit with open-id-connect authentication. Its build around best practices such as router based feature moudles.  
 

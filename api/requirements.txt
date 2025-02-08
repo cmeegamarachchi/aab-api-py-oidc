@@ -6,3 +6,8 @@ pydantic==1.10.9
 python-jose
 requests
 aiofiles
+
+# required for auth
+pyjwt[crypto] 
+httpx 
+python-dotenv

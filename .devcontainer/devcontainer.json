@@ -1,5 +1,5 @@
 {
-  "name": "appsolve application blocks python api starter kit",
+  "name": "appsolve application blocks python api starter kit with open-id-connect authentication",
   "build": {
     "dockerfile": "Dockerfile"
   },

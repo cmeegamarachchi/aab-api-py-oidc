@@ -1,5 +1,7 @@
-# aad-api-py-oidc
-appsolve application blocks fast-api starter kit with open-id-connect authentication  
+# Appsolve application blocks fast-api starter kit with open-id-connect authentication
+
+> [!WARNING]  
+> Current implementation is using `id-token` for api authentication, which is not a good practice. This will be fixed in an up comming release
 
 `aab-api-py-oicc` is a Python, Fast-API based api starter kit with open-id-connect authentication. Its build around best practices such as router based feature moudles.  
 

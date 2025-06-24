@@ -11,6 +11,7 @@ Some of the highlevel features
 ### To start
 
 Add required environment. `.env` at root level is supported. Following environment variables are required  
+  * `AUTH_ENABLED`: Set to `true` (default) to enable authentication, or `false` to disable authentication (useful for development/testing; disables JWT verification and injects a dummy user).
   * `OIDC_APP_CLIENT_ID`: App client id
   * `OIDC_JWKS_URL`: JWT keys url
     * For Azure: `https://login.microsoftonline.com/[TENENT_ID]/discovery/v2.0/keys`

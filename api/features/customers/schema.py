@@ -8,3 +8,4 @@ class Customer(BaseModel):
     street_address: str
     city: str
     country: str
+    signed_on_date: str
